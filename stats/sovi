@@ -1,0 +1,19 @@
+Stats :
+easy + games (num_games, total_time, num_questions, correct_questions):
+3 34.419734716415405 30 30
+easy - games (num_games, total_time, num_questions, correct_questions):
+1 13.64569091796875 10 10
+easy * games (num_games, total_time, num_questions, correct_questions):
+1 12.232318878173828 10 10
+medium + games (num_games, total_time, nuquestions, correct_questions):
+2 43.33847188949585 20 20
+medium - games (num_games, total_time, nuquestions, correct_questions):
+1 23.076032161712646 10 9
+medium * games (num_games, total_time, nuquestions, correct_questions):
+0 0 0 0
+hard + games (num_games, total_time, num_questions, correct_questions):
+1 58.604986906051636 10 9
+hard - games (num_games, total_time, num_questions, correct_questions):
+2 128.45862793922424 20 14
+hard * games (num_games, total_time, num_questions, correct_questions):
+0 0 0 0
